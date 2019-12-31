@@ -1,1 +1,1 @@
-# noparametrica
+# Ejercicios de estadística no parametrica
